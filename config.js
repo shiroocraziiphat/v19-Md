@@ -48,7 +48,7 @@ global.author = 'Loppyuuu<3'
 global.email = 'drakipul1016@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wm = '©Shiro-Md'
-global.media = 'https://i.pinimg.com/736x/f3/56/74/f356746b3a1a4c6a7f2ffb320bed495a.jpg'
+global.media = 'https://i.pinimg.com/originals/b3/17/cf/b317cf5a78221dc8fe4df9fbe2d4bc51.jpg'
 
 global.wait = '_*Tunggu Sebentar Sedang Di Proses...*_'
 global.eror = '_*Server Error*_'
