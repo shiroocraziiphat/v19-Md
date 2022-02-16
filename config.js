@@ -36,18 +36,18 @@ leyskey = 'dappakntlll'
 bearkey = 'Apikey'
 ApiiKey = 'https://youtu.be/Sgb5BVOW66Y'
 
-namabot = 'Shiro Botz'
-namalu = 'Shiro Akio'
-footer = '\n©Shiro-Md'
+namabot = 'Hyzer-Md'
+namalu = 'Hyzer.'
+footer = '\n©Hyzer.'
 kasihcaption = `Nih Sayang`
 
 // Sticker WM
 global.stiker_wait = '_*Tunggu Sebentar...*_'
-global.packname = 'ShiroBotz Md'
+global.packname = 'Hyzer-Md'
 global.author = 'Loppyuuu<3'
 global.email = 'drakipul1016@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '©Shiro-Md'
+global.wm = '© Hyzer.'
 global.media = 'https://i.pinimg.com/originals/b3/17/cf/b317cf5a78221dc8fe4df9fbe2d4bc51.jpg'
 
 global.wait = '_*Tunggu Sebentar Sedang Di Proses...*_'
